@@ -1,5 +1,5 @@
-*
+/*
 
 !.gitignore
-!CBS.log
-!PTBSync-AutoExport-Infinito.ini
+!/CBS/
+!/PTBSync-AutoExport-Infinito.ini
