@@ -1,5 +1,2 @@
-1) Ich werde meine Träume bewusst erleben und mich an sie erinnern.
-3) Ich werde im Lotto gewinnen!!!
-6) Das Finanzamt wird die volle Steuererklärung 2014 akzeptieren.
-7) Das Finanzamt wird alle weiteren Steuererklärungen akzeptieren.
-8) Alle Handwerker-Rechnungen werden akzeptiert.
+System.Design.dll
+xpsservices.dll
