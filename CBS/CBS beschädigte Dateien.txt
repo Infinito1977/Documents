@@ -1,2 +1,0 @@
-System.Design.dll
-xpsservices.dll
